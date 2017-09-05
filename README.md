@@ -1,5 +1,5 @@
 # .NET-app_learning
-# FOLDER SCRIPTS 
+
 ![N|Solid](https://webtoolfeed.files.wordpress.com/2012/10/games1.jpg)
 
 > it's  just js to remember and study
